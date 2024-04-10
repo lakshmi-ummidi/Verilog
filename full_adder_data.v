@@ -1,23 +1,14 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    02:17:52 04/03/2024 
-// Design Name: 
-// Module Name:    full_adder_data 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+/********************************************************************************************
+
+Filename    :	   full_adder_data_tb.v   
+
+Description :      One bit Full adder using dataflow model
+
+Author Name :      Lakshmi Ummidi
+
+Version     :      1.0
+*********************************************************************************************/
 module full_adder_data(a, b, c, Sum, Carry);
 
 	input a, b, c;
