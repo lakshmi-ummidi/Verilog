@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 /********************************************************************************************
 
-Filename    :	     Decoder2to4  
+Filename    :	   Decoder2to4  
 
 Description :      Design of 2:4 Decoder using Dataflow model
 
