@@ -1,26 +1,15 @@
 `timescale 1ns / 1ps
 
-////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer:
-//
-// Create Date:   07:08:54 04/09/2024
-// Design Name:   Decoder2to4
-// Module Name:   /home/ise/Data/Xilinx Projects/Practice/Decoder2to4_tb.v
-// Project Name:  Practice
-// Target Device:  
-// Tool versions:  
-// Description: 
-//
-// Verilog Test Fixture created by ISE for module: Decoder2to4
-//
-// Dependencies:
-// 
-// Revision:
-// Revision 0.01 - File Created
-// Additional Comments:
-// 
-////////////////////////////////////////////////////////////////////////////////
+/********************************************************************************************
+
+Filename    :	   Decoder2to4_tb.v
+
+Description :      2:4 Decoder TestBench
+
+Author Name :      Lakshmi Ummidi
+
+Version     :      1.0
+*********************************************************************************************/
 
 module Decoder2to4_tb;
 
