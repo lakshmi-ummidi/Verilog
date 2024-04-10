@@ -1,6 +1,6 @@
 /********************************************************************************************
 
-Filename    :	   full_adder_tb.v   
+Filename    :	   full_adder_data_tb.v   
 
 Description :      One bit Full adder Testbench
 
