@@ -1,23 +1,14 @@
 `timescale 1ns / 1ps
-//////////////////////////////////////////////////////////////////////////////////
-// Company: 
-// Engineer: 
-// 
-// Create Date:    07:01:14 04/09/2024 
-// Design Name: 
-// Module Name:    Decoder2to4 
-// Project Name: 
-// Target Devices: 
-// Tool versions: 
-// Description: 
-//
-// Dependencies: 
-//
-// Revision: 
-// Revision 0.01 - File Created
-// Additional Comments: 
-//
-//////////////////////////////////////////////////////////////////////////////////
+/********************************************************************************************
+
+Filename    :	     Decoder2to4  
+
+Description :      Design of 2:4 Decoder using Dataflow model
+
+Author Name :      Lakshmi Ummidi
+
+Version     :      1.0
+*********************************************************************************************/
 module Decoder2to4(a, b, y);
 
 input a, b;
